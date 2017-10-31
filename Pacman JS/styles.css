@@ -1,0 +1,15 @@
+.real{
+	background-color: red;
+	border: 2px solid black;
+	height: 400px;
+	width: 600px;
+	margin: 0 auto;
+	border-radius: 50px;
+}
+
+#pacman {
+	width: 30px;
+	height: 30px;
+	position: relative;
+	left: 15px;
+}
